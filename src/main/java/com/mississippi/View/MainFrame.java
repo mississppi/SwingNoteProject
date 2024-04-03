@@ -1,10 +1,9 @@
-package main.java.com.mississippi.View;
+package main.java.com.mississippi.view;
 
 import javax.swing.*;
-import java.awt.*;
 
 public class MainFrame extends JFrame{
-    
+
     public MainFrame(){
         int FRAME_WIDTH = 1200;
         int FRAME_HEIGHT = 700;
